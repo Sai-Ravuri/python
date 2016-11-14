@@ -47,14 +47,21 @@
 #
 # print last("aaaaa","b")
 
-def no_of_days(date_of_birth,current_date):
-    days=0
-    n=date_of_birth
-    x=current_date
-    if n != x:
-        days= days+1
-    else:
-        return days
+# def no_of_days(date_of_birth,current_date):
+#     days=0
+#     n=date_of_birth
+#     x=current_date
+#     if n != x:
+#         days= days+1
+#     else:
+#         return days
+#
+# print no_of_days()
 
-print no_of_days()
-
+# i=0
+# while i>=0:
+#     print p[i]
+#     i=i+1
+a=[1,2,3]
+b=3
+print a.find(b)
