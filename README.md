@@ -11,7 +11,7 @@ markdown **language**
 
     **Methods in lists:**
 
-    ....*Append: <list>.append(<element>)
+        Append: <list>.append(<element>)
                 Append adds new element at the end of the existent list_variable
         Value in list:
-    ..................*asdf
+                       asdf
