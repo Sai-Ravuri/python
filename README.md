@@ -13,5 +13,5 @@ markdown **language**
 
     ....*Append: <list>.append(<element>)
                 Append adds new element at the end of the existent list_variable
-    ....*Value in list:
+        Value in list:
     ..................*
