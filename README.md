@@ -21,3 +21,9 @@ markdown **language**
                        ex: p=[0,1,2]
                            print 2 in p
                        o/p: True (bcz 2 is presented in list p)
+         Pop: <list>.pop()
+                    Mutates the list by removing and returning its last element
+                    ex: if a=[1,2,3]
+                            b=a
+                            then a refer to 1,2,3 and b also refer to 1,2,3,
+                            now x= a.pop() then result will be last element od a i.e, 3 same time it change b elemts also that is call mutation
